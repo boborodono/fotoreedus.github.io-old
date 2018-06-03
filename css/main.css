@@ -175,7 +175,7 @@ button:focus {
 }
 
 .menu__item--current {
-	color: #ef5350;
+	color: #04922a; /* old color: #ef5350 */
 }
 
 /* Hero image */
@@ -434,7 +434,7 @@ button:focus {
 }
 
 .is-selected .stack-title a span {
-	color: #ef5350;
+	color: #04922a; /* old color: #ef5350 */
 }
 
 .stack-title a::after,
@@ -624,7 +624,7 @@ button:focus {
 
 .item__details ul li:first-child {
 	font-weight: bold;
-	color: #ef5350;
+	color: #04922a; /* old color: #ef5350 */
 }
 
 .icon {
