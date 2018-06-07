@@ -1,5 +1,5 @@
 # REED SUTTON PHOTOGRAPHY
-# https://photoreedus.github.io
+# https://fotoreedus.github.io
 
 ### Photography links:
 https://sites.google.com/site/marclevoylectures/home
