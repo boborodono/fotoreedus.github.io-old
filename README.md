@@ -1,5 +1,6 @@
 # REED SUTTON PHOTOGRAPHY
 # https://photoreedus.github.io
 
-### Photography courses:
+### Photography links:
 https://sites.google.com/site/marclevoylectures/home
+https://www.reddit.com/r/photography/comments/5jrwbu/i_am_a_full_time_photographer_because_of/
