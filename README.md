@@ -1,6 +1,6 @@
 # Reed Sutton Photography
-# #landscape #nightscape #lighttrails 
-# https://fotoreedus.github.io
+## #landscape #nightscape #lighttrails 
+## https://fotoreedus.github.io
 
 ### Photography links:
 https://sites.google.com/site/marclevoylectures/home
