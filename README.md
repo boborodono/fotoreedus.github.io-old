@@ -10,3 +10,6 @@ https://www.reddit.com/r/photography/comments/5jrwbu/i_am_a_full_time_photograph
 Package up LR presets and sell  
 Package up 500px bot (+others?) and sell  
 Package up stock image bot and sell
+
+### Product Page:
+https://designmodo.com/create-product-page/
